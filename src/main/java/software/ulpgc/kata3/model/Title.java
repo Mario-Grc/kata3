@@ -1,3 +1,5 @@
+package software.ulpgc.kata3.model;
+
 public class Title {
     private final String name;
     private final int year;

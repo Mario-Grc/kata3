@@ -1,3 +1,8 @@
+package software.ulpgc.kata3.io;
+
+import software.ulpgc.kata3.model.Barchart;
+import software.ulpgc.kata3.model.Title;
+
 import java.io.File;
 import java.io.IOException;
 import java.util.HashMap;

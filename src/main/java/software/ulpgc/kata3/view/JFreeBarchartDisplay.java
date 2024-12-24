@@ -1,5 +1,9 @@
+package software.ulpgc.kata3.view;
+
 import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;
+import software.ulpgc.kata3.model.Barchart;
+import software.ulpgc.kata3.JFreeBarchartAdapter;
 
 import javax.swing.*;
 import java.awt.*;

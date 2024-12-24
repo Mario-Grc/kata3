@@ -1,3 +1,8 @@
+package software.ulpgc.kata3;
+
+import software.ulpgc.kata3.control.ToggleStatisticCommand;
+import software.ulpgc.kata3.io.MoviesBarchartLoader;
+
 import java.io.IOException;
 
 public class Main {

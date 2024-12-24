@@ -1,3 +1,8 @@
+package software.ulpgc.kata3.control;
+
+import software.ulpgc.kata3.io.BarchartLoader;
+import software.ulpgc.kata3.view.BarchartDisplay;
+
 import java.io.IOException;
 
 public class ToggleStatisticCommand implements Command {

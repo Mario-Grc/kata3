@@ -1,3 +1,8 @@
+package software.ulpgc.kata3;
+
+import software.ulpgc.kata3.control.Command;
+import software.ulpgc.kata3.view.JFreeBarchartDisplay;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

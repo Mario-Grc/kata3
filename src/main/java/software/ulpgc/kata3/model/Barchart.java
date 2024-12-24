@@ -1,3 +1,5 @@
+package software.ulpgc.kata3.model;
+
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
